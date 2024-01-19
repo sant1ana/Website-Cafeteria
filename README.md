@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a>Manhattan-Coffee House</a>
+    <a> ☕ Manhattan-Coffee House</a>
 </h1><br><br>
 <p align="center">:mega: projeto elaborado pela plataforma do curso Devmedia </p><br><br>
 <p align="center">🚀 website de uma cafeteria utilizando as tecnologias HTML e CSS </p><br><br>
