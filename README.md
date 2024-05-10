@@ -31,6 +31,6 @@
   :heavy_check_mark: Concluído <br><br>
 
   ## :link: Acesso ao projeto
-  Você pode acessar o projeto final clicando aqui: https://sant1ana.github.io/Website-Cafeteria/
+  Você pode acessar o projeto final clicando aqui: https://jade-starlight-836cf7.netlify.app
      
     
